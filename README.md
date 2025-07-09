@@ -1,8 +1,8 @@
-# Project 4 - *Name of App Here*
+# Project 4 - *Trivia*
 
 Submitted by: **Matanda Phiri**
 
-**Trivia** 
+**Trivia** an app that asks questions
 
 Time spent: **5** hours spent in total
 
